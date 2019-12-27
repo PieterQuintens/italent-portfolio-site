@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,32 +12,36 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Portfolio',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Selectie',
+      path: '/category/selectie'
     },
     {
-      label: 'Contact me',
+      label: 'Reflectie',
+      path: '/pages/reflectie'
+    },
+    {
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Pieter Quintens',
+    photo: '/Pieter.jpg',
+    bio: '',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'pieter.quintens@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'pieterquintens',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'pieterquintens',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

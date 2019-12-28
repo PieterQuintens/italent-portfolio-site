@@ -32,6 +32,8 @@ export type Node = {
     date: string,
     description?: string,
     category?: string,
+    location?:string,
+    duration?:string,
     tags?: string[],
     title: string,
     socialImage?: string

@@ -1,6 +1,8 @@
 ---
 title: Hackathon Spikes
 date: "2019-11-28T00:00:00.121Z"
+location: WAW gebouw Antwerpen
+duration: 12u
 template: "post"
 draft: false
 slug: "selectie-spikes"

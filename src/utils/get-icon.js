@@ -5,6 +5,15 @@ const getIcon = (name: string) => {
   let icon;
 
   switch (name) {
+    case 'clock':
+      icon = ICONS.CLOCK;
+      break;
+    case 'calendar':
+      icon = ICONS.CALENDAR;
+      break;
+    case 'pin':
+      icon = ICONS.PIN;
+      break;
     case 'twitter':
       icon = ICONS.TWITTER;
       break;

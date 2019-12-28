@@ -1,6 +1,7 @@
 ---
 title: Cyber Security Challenge Belgium
 date: "2018-03-07T00:00:00.121Z"
+location: iSpace
 template: "post"
 draft: false
 slug: "selectie-security-challenge"

@@ -38,6 +38,8 @@ export const query = graphql`
       frontmatter {
         title
         date
+        duration
+        location
         description
         socialImage
       }

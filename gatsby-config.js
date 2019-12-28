@@ -84,6 +84,7 @@ module.exports = {
                       frontmatter {
                         title
                         date
+                        location
                         template
                         draft
                         description

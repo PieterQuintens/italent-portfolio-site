@@ -188,7 +188,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'static/photo.jpg'
+        icon: 'static/1314_logo_pxl_bol_witrand.png'
       },
     },
     'gatsby-plugin-offline',

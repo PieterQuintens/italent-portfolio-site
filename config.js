@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://pieterquintens.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'iTalent Portfolio',
   subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -14,6 +14,14 @@ module.exports = {
     {
       label: 'Portfolio',
       path: '/'
+    },
+    {
+      label: 'Categorieën',
+      path: '/categories/'
+    },
+    {
+      label: 'Onderwerpen',
+      path: '/tags/'
     },
     {
       label: 'Selectie',

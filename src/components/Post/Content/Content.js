@@ -18,7 +18,6 @@ const Content = ({ body, title, date, duration, location }: Props) => (
       <LocationMeta className={styles['content__body']} date={date} duration={duration} location={location} ></LocationMeta>
       <div dangerouslySetInnerHTML={{ __html: body }} />
     </div>
-
   </div>
 );
 

@@ -13,6 +13,7 @@ tags:
   - "Office 365"
   - "Handlebars"
   - "Spikes"
+  - "Web development"
 description: "AI is iets dat bij veel mensen tot de verbeelding spreekt. Iedereen heeft er wel al eens van gehoord en hoe vaak het tegenwoordig in het nieuws komt is al lang niet meer op 2 handen te tellen ..."
 socialImage: "/media/image-2.jpg"
 ---

@@ -8,8 +8,6 @@ draft: false
 slug: "Projectweek"
 category: "Persoonlijke ontwikkeling"
 tags:
-  - "Security"
-  - "Kali"
 description: "In de projectweek leerden we het team kennen waarmee we de daaropvolgende maanden het research-project moesten doen ..."
 socialImage: "/media/image-2.jpg"
 ---

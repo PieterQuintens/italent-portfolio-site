@@ -13,6 +13,7 @@ tags:
   - "Office 365"
   - "Handlebars"
   - "Spikes"
+  - "Web development"
 description: "Het bedrijf waar ik stage deed houdt elk jaar een een of meerdere hackathons ..."
 socialImage: "/media/image-2.jpg"
 ---

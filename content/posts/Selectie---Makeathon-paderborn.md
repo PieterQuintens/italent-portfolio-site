@@ -2,6 +2,7 @@
 title: Makeathon Fraunhofer Instituut Paderborn
 date: "2019-04-24T00:00:00.121Z"
 location: Paderborn
+duration: 16u
 template: "post"
 draft: false
 slug: "selectie-paderborn"

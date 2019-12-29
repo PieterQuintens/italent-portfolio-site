@@ -2,6 +2,7 @@
 title: Case Innovatieroute AI
 date: "2018-09-26T00:00:00.121Z"
 location: iSpace
+duration: 40u
 template: "post"
 draft: false
 slug: "selectie-innovatieroute"

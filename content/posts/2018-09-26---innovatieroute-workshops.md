@@ -1,6 +1,8 @@
 ---
 title: Innovatieroute AI workshops en seminaries
 date: "2019-09-26T00:00:00.121Z"
+location: iSpace
+duration: 30u
 template: "post"
 draft: false
 slug: "Innovatie-sem"

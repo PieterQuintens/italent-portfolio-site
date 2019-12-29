@@ -1,6 +1,8 @@
 ---
 title: "AppFoundry: cross-platform mobile development"
 date: "2018-12-05T00:00:00.121Z"
+location: iClassroom
+duration: 3u
 template: "post"
 draft: false
 slug: "Appfoundry"

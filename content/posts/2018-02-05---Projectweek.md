@@ -1,6 +1,8 @@
 ---
 title: Projectweek
 date: "2018-02-05T00:00:00.121Z"
+location: Gebouw B & iSpace
+duration: 25u
 template: "post"
 draft: false
 slug: "Projectweek"

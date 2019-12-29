@@ -1,6 +1,8 @@
 ---
 title: Cyber Security Challenge
 date: "2018-03-07T00:00:00.121Z"
+location: iSpace
+duration: 8u
 template: "post"
 draft: false
 slug: "Cyber-security"

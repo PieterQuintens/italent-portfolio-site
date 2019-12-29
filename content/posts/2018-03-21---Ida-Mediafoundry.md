@@ -1,6 +1,8 @@
 ---
 title: Ida Mediafoundry
 date: "2018-03-21T00:00:00.121Z"
+location: Corda Conference
+duration: 3u
 template: "post"
 draft: false
 slug: "Ida Mediafoundry"

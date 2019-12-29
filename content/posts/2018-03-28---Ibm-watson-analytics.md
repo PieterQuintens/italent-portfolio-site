@@ -1,6 +1,8 @@
 ---
 title: IBM Watson Analytics
 date: "2018-03-28T00:00:00.121Z"
+location: iClassroom
+duration: 2u
 template: "post"
 draft: false
 slug: "IBM Watson Analytics"

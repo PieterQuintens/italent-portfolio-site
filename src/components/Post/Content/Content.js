@@ -14,8 +14,11 @@ type Props = {
 const Content = ({ body, title, date, duration, location }: Props) => (
   <div className={styles['content']}>
     <h1 className={styles['content__title']}>{title}</h1>
-    <LocationMeta className={styles['content__title']} date={date} duration={duration} location={location} ></LocationMeta>
-    <div className={styles['content__body']} dangerouslySetInnerHTML={{ __html: body }} />
+    <div className={styles['content__body']}>
+      <LocationMeta className={styles['content__body']} date={date} duration={duration} location={location} ></LocationMeta>
+      <div dangerouslySetInnerHTML={{ __html: body }} />
+    </div>
+
   </div>
 );
 

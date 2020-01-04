@@ -32,8 +32,8 @@ module.exports = {
       path: '/pages/reflectie'
     },
     {
-      label: 'Contact',
-      path: '/pages/contacts'
+      label: 'Over mij',
+      path: '/pages/overmij'
     }
   ],
   author: {

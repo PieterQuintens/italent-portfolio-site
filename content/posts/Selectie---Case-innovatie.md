@@ -27,6 +27,9 @@ In de seminaries werd ons door oud-studenten werkend bij gerenommeerde bedrijven
 Na de seminaries was het aan ons om een project uit te bouwen om onze nieuw opgedane kennis in de praktijk te brengen. We konden kiezen tussen een case waarbij een digitale buitenwipper beslissingen neemt over de gemoedstoestand van personen, een case die teksten kan analyseren en een samenvatting kan maken hiervan en een case om een AI te trainen die gebouwen van de PXL kan herkennen en taggen.
 
 De case om PXL gebouwen te herkennen leek onze groep het meest te liggen. Om dit te realiseren moesten we met behulp van Python, Tensorflow en Keras, een AI trainen die in een grote verzameling van gebouwen de gebouwen van de PXL kon herkennen en eruit halen. Van deze gebouwen zou vervolgens gekeken worden welk van de PXL gebouwen het precies was.
+
+![Terminal while training](/media/portfolio/a04bcdd3-inception.png)
+
 We waren tijdens de seminaries al eens in aanraking gekomen met Keras en hadden al eens een afbeeldingsklassificatie-AI getraind. Dit ging echter over relatief simpele convolutionele netwerken op kleine afbeeldingen. Als we de case echter op dezelfde manier wilden oplossen moesten we over enorm veel rekenkracht, tijd en afbeeldingen van gebouwen beschikken. Er zijn echter al verschillende convolutionele netwerken om afbeeldingen te klassificeren dus als we een reeds getraine AI konden herscholen om gebouwen te herkennen zou dit ideaal zijn.
 
 Google heeft met zijn Inception V3 een model dat op miljoenen afbeeldingen getraind is over een lange periode. Het is mogelijk om dit model te nemen en enkel de laatste lagen van het convolutioneel netwerk te hertrainen. Hierdoor is het mogelijk om een zeer accurate AI te hebben terwijl relatief weinig rekenkracht en afbeeldingen nodig zijn.
@@ -34,6 +37,8 @@ Google heeft met zijn Inception V3 een model dat op miljoenen afbeeldingen getra
 ![Inception V3 Diagram](/media/portfolio/inceptionv3onc--oview.png)
 
 Het enige dat moest gebeuren was om deze laatste lagen te hertrainen. Hoewel om een AI te hertrainen veel minder afbeeldingen nodig zijn dan om hem vanaf 0 te trainen, waren er toch enkele honderden afbeeldingen nodig. Het leek ons aangewezen om in plaats van honderden foto’s te gaan nemen van de PXL-gebouwen, enkele filmpjes te maken van de gebouwen en de frames hieruit te gebruiken als afbeeldingen. Hierdoor hadden we meer afbeeldingen dan nodig om een AI te trainen. De rest van de afbeeldingen kon dus gebruikt worden om de AI te testen.
+
+![Training graph gebouwen](/media/portfolio/1_9XndzDCXfmnc38mwDTE92A.png)
 
 Het eindresultaat van de case was dat wanneer de AI over een duidelijke foto van een PXL-gebouw beschikte, hij met gemiddeld 90% zekerheid kon zeggen over welk gebouw het ging. Om echt het onderscheid te maken tussen een PXL-gebouw en een willekeurig gebouw hadden we echter niet genoeg data van andere gebouwen voorzien. Ongeacht dit kleine probleem was het toch een geslaagde case.
 
